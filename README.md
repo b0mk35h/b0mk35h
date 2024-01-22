@@ -1,3 +1,12 @@
+<div align="left">
+  <b><pwn>🔴 🟡 🟢</pwn></b>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+b0mk35h+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
+</div>
+
+
 # 💫 About Me:
 👨‍💻 I'm a progressive learner in cyber security domain.<br>🔭 I’m looking for a entry level position in cyber security domain.<br>🌱 I’m currently learning advance python.<br>💬 Ask me about website security.<br>⚡ Fun fact- Actually I am lazy.
 
